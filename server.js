@@ -36,7 +36,7 @@ app.use((err, req, res, next)=>{
 });
 
 app.use((req, res) =>{
-    res.status(404).send("API not found!..Please check our documentation for more information at localhost:5500/api-docs")
+    res.status(404).send("API not found!..Please check our documentation for more information at localhost:5000/api-docs")
 });
 
 app.listen(5000,()=>{

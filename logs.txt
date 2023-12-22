@@ -63,3 +63,11 @@
 {"Service":"request-logging","level":"info","message":"/api/comments/3 - {}"}
 {"Service":"request-logging","level":"info","message":"/api/comments/update/2 - {\"comment\":\"getting a job in full stack developer\"}"}
 {"Service":"request-logging","level":"info","message":"/api/comments/update/2 - {\"comment\":\"getting a job in full stack developer\"}"}
+{"Service":"request-logging","level":"info","message":"/ - {}"}
+{"Service":"request-logging","level":"info","message":"/favicon.ico - {}"}
+{"Service":"request-logging","level":"info","message":"/ - {}"}
+{"Service":"request-logging","level":"info","message":"/api/posts - {}"}
+{"Service":"request-logging","level":"info","message":"/api/comments/1 - {}"}
+{"Service":"request-logging","level":"info","message":"/api/comments/1 - {}"}
+{"Service":"request-logging","level":"info","message":"/api/comments/2 - {}"}
+{"Service":"request-logging","level":"info","message":"/api/comments/1 - {}"}

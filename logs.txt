@@ -71,3 +71,8 @@
 {"Service":"request-logging","level":"info","message":"/api/comments/1 - {}"}
 {"Service":"request-logging","level":"info","message":"/api/comments/2 - {}"}
 {"Service":"request-logging","level":"info","message":"/api/comments/1 - {}"}
+{"Service":"request-logging","level":"info","message":"/api/likes/2 - {}"}
+{"Service":"request-logging","level":"info","message":"/api/likes/1 - {}"}
+{"Service":"request-logging","level":"info","message":"/api/likes/2 - {}"}
+{"Service":"request-logging","level":"info","message":"/api/likes/2 - {}"}
+{"Service":"request-logging","level":"info","message":"/api/likes/3 - {}"}

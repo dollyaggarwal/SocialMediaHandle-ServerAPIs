@@ -24,7 +24,7 @@ app.use('/api/comments',jwtAuth,commentRouter);
 app.use('/api/likes',jwtAuth,likeRouter);
 
 app.get('/',(req, res) =>{
-    res.send('Welcome To Social Networking APIs.Please check our documentation for more information at localhost:5000/api-docs"');
+    res.send('Welcome To Social Networking APIs.Please check our documentation for more information at https://socialmediahandlerapis.onrender.com/api-docs"');
 });
 
 app.use((err, req, res, next)=>{
